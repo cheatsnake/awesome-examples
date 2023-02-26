@@ -2,6 +2,10 @@
 
 A list of resources where you can learn programming by example.
 
+1.  [Programming languages](#programming-languages)
+2.  [Frameworks](#frameworks)
+3.  [Tools](#tools)
+
 ## Programming languages
 
 ### C
@@ -48,9 +52,17 @@ A list of resources where you can learn programming by example.
 
 ### Groovy
 
+-   [janbodnar/Groovy-Examples](https://github.com/janbodnar/Groovy-Examples)
+
 ### Haskell
 
+-   [Haskell by Example](https://lotz84.github.io/haskellbyexample/)
+-   [Haskell in depth](https://lotz84.github.io/haskellbyexample/) – examples to accompany the book ["Haskell in Depth"](https://www.oreilly.com/library/view/haskell-in-depth/9781617295409/).
+
 ### Java
+
+-   [OnJava8-Examples](https://github.com/BruceEckel/OnJava8-Examples) – code Examples for the book ["On Java 8"](https://www.onjava8.com/).
+-   [Java Tutorial For Beginners](https://github.com/in28minutes/java-tutorial-for-beginners) – about 500 code examples.
 
 ### JavaScript
 
@@ -60,13 +72,25 @@ A list of resources where you can learn programming by example.
 
 ### Julia
 
+-   [Julia by Example](https://juliabyexample.helpmanual.io/)
+
 ### Kotlin
+
+-   [Learn Kotlin by Example](https://play.kotlinlang.org/byExample/overview) – examples from official Kotlin docs.
+-   [Learn Kotlin Coroutines](https://play.kotlinlang.org/byExample/overview) – Kotlin Coroutines by real examples for Android.
+-   [adbrepo/cursoAndroidKotlin](https://github.com/adbrepo/cursoAndroidKotlin) – basic Android examples in Kotlin.
 
 ### Lua
 
+-   [Lua code samples](http://lua-users.org/wiki/SampleCode)
+
 ### Objective-C
 
+-   [kharrison/CodeExamples](https://github.com/kharrison/CodeExamples) – code examples in Objective-C and Swift.
+
 ### Perl
+
+-   [Perl 5 By Example](https://www.webbasedprogramming.com/Perl-5-By-Example/)
 
 ### PHP
 
@@ -79,20 +103,51 @@ A list of resources where you can learn programming by example.
 
 ### R
 
+-   [R by Example](https://www.learnbyexample.org/r-introduction/)
+-   [R Examples for Data Analytics](https://github.com/kiat/R-Examples)
+
 ### Ruby
+
+-   [Design Patterns in Ruby](https://github.com/nslocum/design-patterns-in-ruby) – examples from the book Design Patterns in Ruby by Russ Olsen.
+-   [The Algorithms - Ruby](https://github.com/TheAlgorithms/Ruby) – algorithms implemented in Ruby.
 
 ### Rust
 
 -   [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
+-   [Rust by Practice](https://practice.rs/) – narrowing the gap between beginner and skilled-dev with challenging examples, exercises and projects.
+-   [Rust Atomics and Locks](https://github.com/m-ou-se/rust-atomics-and-locks) – code examples, data structures, and links from book "Rust Atomics and Locks".
+-   [Design Patterns in Rust](https://github.com/fadeevab/design-patterns-rust) – Rust examples for all 23 classic GoF design patterns, and even a little more.
 
 ### Scala
 
+-   [Scala on Android]() – a tutorial and examples of how to write Android apps in Scala.
+
 ### Swift
+
+-   [Swift Structures](https://github.com/waynewbishop/SwiftStructures) – examples of commonly used data structures and algorithms in Swift.
+-   [Swift by Example](http://brettbukowski.github.io/SwiftExamples)
+-   [Swift Examples](https://github.com/andrea-prearo/SwiftExamples) – a collection of Swift samples to experiment with different topics.
 
 ### TypeScript
 
 -   [Modern TypeScript](https://github.com/David-Else/modern-typescript-with-examples-cheat-sheet) – fully printable summary of modern TypeScript language features with extensive examples.
+-   [TypeScript code examples](https://devtut.github.io/typescript/typescript-core-types.html#string-literal-types)
+-   [Design Patterns in TypeScript](https://github.com/RefactoringGuru/design-patterns-typescript)
+-   [SOLID Principles Examples using Typescript](https://github.com/devbootstrap/SOLID-Principles-Examples-using-Typescript)
 
 ## Frameworks
 
 ## Tools
+
+### Bash
+
+-   [Bash scripts by example](https://github.com/cheatsnake/bash-scripts-by-example) – learn main features of Bash scripts by examples (ENG/RUS).
+
+### Docker
+
+-   [Awesome Docker Compose Examples](https://github.com/Haxxnet/Compose-Examples) – various Docker Compose examples of selfhosted FOSS and proprietary projects.
+-   [DoTheEvo/selfhosted-apps-docker](https://github.com/DoTheEvo/selfhosted-apps-docker) – pretty hand holding and detailed Docker recipes.
+
+### Regular expressions
+
+-   [Regex by example](https://github.com/cheatsnake/regex-by-example) – learn main features of regular expressions by examples (ENG/RUS).
